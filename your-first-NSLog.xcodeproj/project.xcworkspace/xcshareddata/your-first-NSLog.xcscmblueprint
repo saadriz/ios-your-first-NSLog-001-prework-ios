@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F9805C79BAB210B94A68759E9026981E5591643F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F9805C79BAB210B94A68759E9026981E5591643F" : 0,
+    "39D6FE7DE96ABD7A09CAE05600530052CC80B852" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2E4E793-EA2B-42E4-AEB8-045C224644AE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F9805C79BAB210B94A68759E9026981E5591643F" : "ios-your-first-NSLog",
+    "39D6FE7DE96ABD7A09CAE05600530052CC80B852" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "your-first-NSLog",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "your-first-NSLog.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saadriz\/testproject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39D6FE7DE96ABD7A09CAE05600530052CC80B852"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:learn-co-curriculum\/ios-your-first-NSLog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9805C79BAB210B94A68759E9026981E5591643F"
+    }
+  ]
+}
